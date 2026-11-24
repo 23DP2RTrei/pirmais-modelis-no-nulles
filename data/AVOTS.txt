@@ -1,0 +1,9 @@
+Datu kopa: Adult (Census Income)
+Autori: Barry Becker un Ronny Kohavi (1996)
+Avots: UCI Machine Learning Repository
+Oficiālā lapa: https://archive.ics.uci.edu/dataset/2/adult
+Lejupielādes fails: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+DOI: https://doi.org/10.24432/C5XW20
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Lejupielādes datums: 2026-11-24
+Piezīme: datu faili netiek pārveidoti avota vietnē. Projekts saglabā oriģinālo adult.data kā data/adult_raw.data un veido tīrīto tirs.csv.
